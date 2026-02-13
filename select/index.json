@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "携帯電話",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-13T09:23:50.032623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "携帯電話(Cat Ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_携帯電話(Cat_Ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "携帯電話",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_携帯電話_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "携帯電話(Cat Ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_携帯電話(Cat_Ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "携帯電話 (Cat Ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_携帯電話_(Cat_Ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "携帯電話",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_携帯電話_RADWIMPS.txt"
+    }
+  ]
+}
